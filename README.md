@@ -1,1 +1,1 @@
-# IS1300-Embedded_Systems
+# IS1300-Embedded-Systems
