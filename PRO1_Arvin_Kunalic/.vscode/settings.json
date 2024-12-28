@@ -1,0 +1,7 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "files.associations": {
+    "595_shiftreg.h": "c",
+    "traffic_functions.h": "c"
+  }
+}

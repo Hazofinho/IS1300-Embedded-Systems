@@ -1,0 +1,10 @@
+../Core/Src/595_shiftreg.c:62:6:reset_595register	1
+../Core/Src/595_shiftreg.c:79:6:buffer_to_SPI	1
+../Core/Src/595_shiftreg.c:97:6:update_shiftreg_buffer	1
+../Core/Src/595_shiftreg.c:117:6:set_pin	1
+../Core/Src/595_shiftreg.c:138:6:clear_pin	1
+../Core/Src/595_shiftreg.c:161:6:toggle_pedestrian	3
+../Core/Src/595_shiftreg.c:183:6:go_pedestrian	5
+../Core/Src/595_shiftreg.c:230:6:stop_pedestrian	3
+../Core/Src/595_shiftreg.c:275:6:go_intersection	9
+../Core/Src/595_shiftreg.c:341:6:stop_intersection	9

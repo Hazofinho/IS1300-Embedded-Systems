@@ -1,0 +1,8 @@
+../Core/Src/ssd1306_config.c:53:6:reset_OLED	8	static
+../Core/Src/ssd1306_config.c:72:6:send_command_OLED	16	static
+../Core/Src/ssd1306_config.c:87:6:send_data_OLED	16	static
+../Core/Src/ssd1306_config.c:105:6:init_OLED	48	static
+../Core/Src/ssd1306_config.c:153:6:update_screen	16	static
+../Core/Src/ssd1306_config.c:176:6:clear_screen	8	static
+../Core/Src/ssd1306_config.c:201:6:draw_char	24	static
+../Core/Src/ssd1306_config.c:228:6:draw_string	16	static

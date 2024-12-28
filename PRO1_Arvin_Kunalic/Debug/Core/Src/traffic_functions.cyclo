@@ -1,0 +1,4 @@
+../Core/Src/traffic_functions.c:52:6:init_program	1
+../Core/Src/traffic_functions.c:83:6:stop_and_resetTimer	1
+../Core/Src/traffic_functions.c:97:6:no_active_cars	5
+../Core/Src/traffic_functions.c:115:6:active_cars_at	7
