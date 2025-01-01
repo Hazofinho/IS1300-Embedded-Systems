@@ -1,3 +1,6 @@
 # Ignore .vscode directories
-.vscode
+.vscode/
+/PRO1_Arvin_Kunalic/.vscode
+
+# Ignore Doxgygen file
 Doxyfile
