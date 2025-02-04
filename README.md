@@ -19,9 +19,9 @@ included my [**project report**](https://github.com/Hazofinho/IS1300-Embedded-Sy
 
 ## 🛜 Installing and Running
 The project's core was generated and configured with STMicroelectronic's `STM32CubeIDE`.
-If you'd like to import this project in the IDE:
+If you'd like to import my project to your IDE:
 
-1. **Clone this repository or download the directory 'PRO1_Arvin_Kunalic'**
+1. **Clone this repository (or simply download 'PRO1_Arvin_Kunalic')**
 2. In `STM32CubeIDE:`
     - Navigate to ` File -> Import -> Import Projects from File System or Archive `
     - Select ` Import Sources -> /path/to/the/downloaded/repository-or-project-directory `  
